@@ -50,7 +50,7 @@ html,body   {background: linear-gradient(130deg,
               }
 .contmainboxone {width: 340px;
                  height: auto;
-                 margin-left: 20px;
+                 margin-left: 15px;
                 }
 .contmainboxoneone  {width: 330px;
                      height: 300px;
@@ -78,3 +78,4 @@ html,body   {background: linear-gradient(130deg,
                  height: auto;
                  display: grid;
                 }
+
