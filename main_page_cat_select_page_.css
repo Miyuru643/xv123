@@ -1,1 +1,79 @@
+html,body   {background: linear-gradient(130deg,
+                                        #3d0101,
+                                        #420202,
+                                        #1f0202,
+                                        #110000
+                                        );
+             margin: 0;
+             width: 1349px;
+             color: #f1f1f1;
+             cursor: default;
+             font-family: Franklin Gothic Medium;
+             overflow-x: hidden;
+            }
+.maindiv    {display: flex;
+             width: 1349px;
+             height: 60px;
+             background-color: #121212;
+            }
+.webiconbox  {display: block;
+              padding: 3px;
+              padding-left: 0px;
+              width: 150px;
+              height: 55px;
+            }
+.webiconbox img {width: 150px;
+                 height: 55px;
+                }
+.maindivone {display: flex;
+             width: auto;
+             height: auto;
+            }
+.maindivone img {width: 30px;
+                 height: 30px;
+                 border-radius: 15px;
+                 margin: 15px;
+                }
 
+.maindivone p  {font-size: 16px;
+                margin: 0px;
+                margin-top: 20px;
+            }
+
+
+
+
+.contmainbox  {display: flex;
+               width: 1349px;
+               height: auto;
+               display: grid;
+              }
+.contmainboxone {width: 340px;
+                 height: auto;
+                }
+.contmainboxoneone  {width: 330px;
+                     height: 300px;
+                     border-style: solid;
+                     border-width: 1px;
+                     display: grid;
+                     border-radius: 20px;
+                     margin-top: 15px;
+                    }
+.contmainboxoneonetext  {display: flex;
+                         width: auto;
+                         height: 60px;
+                         align-items: center;
+                         justify-content: center;
+                        }
+.contmainboxoneonetext img  {width: 50px;
+                             height: 50px;
+                             margin-right: 5px;
+                             border-radius: 40px;
+                            }
+.contmainboxoneonetext p    {font-size: 50px;
+                             margin: 0px;
+                            }
+.contmainboxtwo {width: 1000px;
+                 height: auto;
+                 display: grid;
+                }
