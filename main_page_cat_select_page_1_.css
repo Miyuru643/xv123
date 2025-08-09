@@ -2,3 +2,8 @@ a   {color: #f1f1f1;
      text-decoration: none;
      width: 340px;
     }
+.contmainboxone:hover {margin-left: 20px;
+                       transition:  0.3s;
+                      }
+.contmainboxoneone:active {color: #6b6b6b;
+                          }
