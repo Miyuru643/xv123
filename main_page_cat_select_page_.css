@@ -33,6 +33,7 @@ html,body   {background: linear-gradient(130deg,
                  height: 30px;
                  border-radius: 15px;
                  margin: 15px;
+                 margin-right: 8px;
                 }
 
 .maindivone p  {font-size: 16px;
@@ -78,4 +79,3 @@ html,body   {background: linear-gradient(130deg,
                  height: auto;
                  display: grid;
                 }
-
