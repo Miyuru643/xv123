@@ -1,10 +1,35 @@
 a   {color: #f1f1f1;
      text-decoration: none;
-     width: 340px;
+     width: 160px;
     }
-.contmainboxoneone:hover {margin-left: 5px;
+.contmainboxoneone:hover {margin-left: 20px;
                        transition:  0.3s;
                        box-shadow: 0px 0px 5px #ffffff;
                       }
 .contmainboxoneone:active {color: #6b6b6b;
+                           transition: none;
+                           box-shadow: none;
                           }
+
+.videobox img:hover {border-bottom-left-radius: 0px;
+                     border-bottom-right-radius: 0px;
+                     transition: 0.3s;
+                    }
+.videobox:hover   {border-style: solid;
+                   border-width: 1px;
+                   border-radius: 5px;
+                   border-top-right-radius: 10px;
+                   border-top-left-radius: 10px;
+                   transition: 0.3s;
+                   box-shadow: 0px 0px 7px #ffffff;
+                  }
+
+.adbox {display: none;
+         margin: 0px;
+        }
+        
+.adboxbox {width: auto;
+          height: auto;
+          margin: 0px;
+          display: inline-grid;
+         }
