@@ -1,147 +1,24 @@
-html,body   {background: linear-gradient(130deg,
-                                        #220101,
-                                        #140202,
-                                        #1f0202,
-                                        #110000
-                                        );
-             margin: 0;
-             width: 1349px;
-             color: #f1f1f1;
-             cursor: default;
-             font-family: Franklin Gothic Medium;
-             overflow-x: hidden;
-            }
-.maindiv    {display: flex;
-             width: 1349px;
-             height: 60px;
-             background-color: #121212;
-             overflow-x: hidden;
-             overflow-y: hidden;
-            }
+body    {overflow-x: hidden;
+         min-width: 340px;
+         color: #f1f1f1;
+         background-color: #2b2b2b;
+        }
+
 .webiconbox  {display: block;
               padding: 3px;
               padding-left: 0px;
-              width: 150px;
+              width: 1330px;
               height: 55px;
+              background-color: black;
             }
 .webiconbox img {width: 150px;
                  height: 55px;
                 }
-.maindivone {display: flex;
-             width: auto;
-             height: auto;
-            }
-.maindivone img {width: 30px;
-                 height: 30px;
-                 border-radius: 15px;
-                 margin: 15px;
-                 margin-right: 8px;
-                }
-
-.maindivone p  {font-size: 16px;
-                margin: 0px;
-                margin-top: 20px;
-            }
-
-
-
-
-.contmainbox  {display: flex;
-               width: 1349px;
-               height: auto;
-               overflow-y: hidden;
-               overflow-x: hidden;
-              }
-.contmainboxone {width: 360px;
-                 height: auto;
-                 display: grid;
-                }
-.videobox {width: 160px;
-           height: 120px;
-           margin-left: 10px;
-           display: inline-grid;
-           margin-top: 15px;
-          }
-.videobox img {width: 160px;
-               height: 100px;
-               border-radius: 10px;
-              }
-.videobox p {margin: 0px;
-             font-size: 16px;
-             font-family: times new roman;
-             font-weight: 700;
-             margin-left: 30px;
-            }
-.contmainboxoneone  {width: 330px;
-                     height: 300px;
-                     border-style: solid;
-                     border-width: 1px;
-                     display: grid;
-                     border-radius: 20px;
-                     margin-top: 15px;
-                     margin-left: 15px;
-                    }
-.contmainboxoneonetext  {display: grid;
-                         width: auto;
-                         height: 60px;
-                         align-items: center;
-                         justify-content: center;
+.cookiesAnnounce-30a9a  {display: none;
                         }
-.contmainboxoneonetext img  {width: 290px;
-                             height: 230px;
-                             border-radius: 15px;
-                            }
-.contmainboxoneonetext p    {font-size: 40px;
-                             margin: 0px;
-                             margin-left: 50px;
-                             font-weight: 600;
-                             font-family: sans-serif;
-                            }
-.disone {display: flex;
-         width: 330px;
-         height: 57px;
-         align-items: center;
-         justify-content: center;
-        }
-.disone img {width: 57px;
-             height: 57px;
-             border-radius: 40px;
-            }
-.disone p {font-size: 50px;
-           font-family: sans-serif;
-           font-weight: 600;
-           margin: 0px;
-          }
-.distwo {display: inline-grid;
-         width: 330px;
-         height: 243px;
-        }
-.distwo img {width: 30px;
-             height: 50px;
-             border-radius: 4px;
-            }
-.contmainboxtwo {width: 990px;
-                 height: auto;
-                 display: block;
-                 margin-left: 19px;
-                 margin-top: 15px;
-                }
-.contmainboxtwo img {width: 970px;
-                     height: 570px;
-                     border-radius: 15px;
-                     margin-bottom: 3px;
-                     display: grid;
-                    }
 
-.endone {display: inline-flex;
-         background-color: #000000;
-         width: 1349px;
-         height: 30px;
-         margin-top: 10px;
-        }
-.endone p {font-size: 16px;
-           font-family: calibri;
-           font-weight: 900;
-           margin: 0px;
-           margin-left: 120px;
-          }
+.thumb-list    {margin-left: 10%;
+                }
+
+.thumb-list__item {max-width: 65%;
+                  }
