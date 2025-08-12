@@ -13,7 +13,7 @@ body    {overflow-x: hidden;
               height: 55px;
               background-color: black;
             }
-.webiconbox img {width: 150px;
+.webiconbox img {width: 350px;
                  height: 55px;
                 }
 .cookiesAnnounce-30a9a  {display: none;
@@ -24,4 +24,5 @@ body    {overflow-x: hidden;
 
 .thumb-list__item {max-width: 65%;
                   }
+
 
