@@ -2,6 +2,8 @@ body    {overflow-x: hidden;
          min-width: 340px;
          color: #f1f1f1;
          background-color: #2b2b2b;
+         width: auto;
+         height: auto;
         }
 
 .webiconbox  {display: block;
@@ -22,3 +24,4 @@ body    {overflow-x: hidden;
 
 .thumb-list__item {max-width: 65%;
                   }
+
